@@ -4,7 +4,7 @@ Tags: git-updater, test
 Requires at least: 6.5
 Tested up to: 7.1.5
 Requires PHP: 8.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ and see whether the update keeps its package.
 2. Activate the plugin.
 
 == Changelog ==
+
+= 1.0.1 =
+* Test release: no changes, only a new version for Git Updater to pick up.
 
 = 1.0.0 =
 * First release.
