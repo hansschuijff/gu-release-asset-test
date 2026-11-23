@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       GU Release Asset Test
  * Description:       Does nothing. A public test plugin with the same header and repository layout as a private plugin whose Git Updater updates lose their package.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Requires at least: 6.5
  * Tested up to:      7.1.5
  * Requires PHP:      8.2
